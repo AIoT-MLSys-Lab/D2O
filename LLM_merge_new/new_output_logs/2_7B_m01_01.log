@@ -1,0 +1,44 @@
+
+===================================BUG REPORT===================================
+Welcome to bitsandbytes. For bug reports, please run
+
+python -m bitsandbytes
+
+ and submit this information together with your error trace to: https://github.com/TimDettmers/bitsandbytes/issues
+================================================================================
+bin /users/PAS2473/brucewan666/anaconda3/envs/kivi/lib/python3.10/site-packages/bitsandbytes/libbitsandbytes_cuda118.so
+CUDA SETUP: CUDA runtime path found: /users/PAS2473/brucewan666/anaconda3/envs/kivi/lib/libcudart.so
+CUDA SETUP: Highest compute capability among GPUs detected: 8.0
+CUDA SETUP: Detected CUDA version 118
+CUDA SETUP: Loading binary /users/PAS2473/brucewan666/anaconda3/envs/kivi/lib/python3.10/site-packages/bitsandbytes/libbitsandbytes_cuda118.so...
+H2OKVCache-LayerWise: 0.1, 0.1
+H2OKVCache-LayerWise: 0.1, 0.1
+H2OKVCache-LayerWise: 0.1, 0.1
+H2OKVCache-LayerWise: 0.1, 0.1
+H2OKVCache-LayerWise: 0.1, 0.1
+H2OKVCache-LayerWise: 0.1, 0.1
+H2OKVCache-LayerWise: 0.1, 0.1
+H2OKVCache-LayerWise: 0.1, 0.1
+H2OKVCache-LayerWise: 0.1, 0.1
+H2OKVCache-LayerWise: 0.1, 0.1
+H2OKVCache-LayerWise: 0.1, 0.1
+H2OKVCache-LayerWise: 0.1, 0.1
+H2OKVCache-LayerWise: 0.1, 0.1
+H2OKVCache-LayerWise: 0.1, 0.1
+H2OKVCache-LayerWise: 0.1, 0.1
+H2OKVCache-LayerWise: 0.1, 0.1
+H2OKVCache-LayerWise: 0.1, 0.1
+H2OKVCache-LayerWise: 0.1, 0.1
+H2OKVCache-LayerWise: 0.1, 0.1
+H2OKVCache-LayerWise: 0.1, 0.1
+H2OKVCache-LayerWise: 0.1, 0.1
+H2OKVCache-LayerWise: 0.1, 0.1
+H2OKVCache-LayerWise: 0.1, 0.1
+H2OKVCache-LayerWise: 0.1, 0.1
+H2OKVCache-LayerWise: 0.1, 0.1
+H2OKVCache-LayerWise: 0.1, 0.1
+H2OKVCache-LayerWise: 0.1, 0.1
+H2OKVCache-LayerWise: 0.1, 0.1
+H2OKVCache-LayerWise: 0.1, 0.1
+H2OKVCache-LayerWise: 0.1, 0.1
+Evaluating on: ['narrativeqa.jsonl', 'qasper.jsonl', 'multifieldqa_en.jsonl', 'hotpotqa.jsonl', '2wikimqa.jsonl', 'musique.jsonl', 'gov_report.jsonl', 'qmsum.jsonl', 'multi_news.jsonl', 'trec.jsonl', 'triviaqa.jsonl', 'samsum.jsonl', 'passage_count.jsonl', 'passage_retrieval_en.jsonl', 'lcc.jsonl', 'repobench-p.jsonl']
