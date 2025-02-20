@@ -30,7 +30,7 @@ CUDA_VISIBLE_DEVICES=1 python run_lm_eval_harness.py \
   --heavy_ratio 0 \
   --recent_ratio 0.2
 
-  # Step 2: Generate the output from LLaMA-7b with H2O
+  # Step 2: Generate the output from LLaMA-7b
 model=huggyllama/llama-7b
 model_arch=llama
  CUDA_VISIBLE_DEVICES=0 python run_lm_eval_harness.py \
