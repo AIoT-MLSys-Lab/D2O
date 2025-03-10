@@ -111,7 +111,6 @@ if __name__ == '__main__':
         json.dump(scores, f, ensure_ascii=False, indent=4)
 
 """
-python eval_long_bench.py --model Llama-2-7b-hf_4096_16bits_group128_residual128 --e 
-# MODEL is the dir name under pred/ Currently it support Llama family model and Mistral model.
-
+python eval_long_bench.py --model Meta-Llama-3-8B_d2o_0.2 --e 
 """
+

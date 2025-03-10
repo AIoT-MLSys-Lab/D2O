@@ -363,9 +363,9 @@ CUDA_VISIBLE_DEVICES=0 python run_lm_eval_harness_generation.py --model_name_or_
 CUDA_VISIBLE_DEVICES=1 python run_lm_eval_harness_generation.py --model_name_or_path meta-llama/Meta-Llama-3-8B \
             --tasks gsm8k \
             --cache_dir /fs/scratch/PAS2473/zhongwei_models \
-            --use_real_merge True \
-            --hh_ratio 0.05 \
-            --recent_size 0.15 \
+            --use_real_drop True \
+            --hh_size 200 \
+            --recent_size 200
 
 
 |Tasks|Version|  Filter  |n-shot|  Metric   |Value |   |Stderr|

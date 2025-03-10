@@ -400,7 +400,7 @@ class H2OKVCache_LayerWise:
         if self.hh_score is None:
             self.hh_score = attn_score_cache.sum(0).sum(1)
         else:
-            # breakpoint() # check here 
+            breakpoint() # check here 
             attn_score_cache = attn_score_cache.sum(0).sum(1)   
             attn_score_cache[..., :-num_new_tokens] = attn_score_cache[..., :-num_new_tokens] + self.hh_score
             self.hh_score = attn_score_cache
