@@ -1,6 +1,6 @@
 # $D_{2}O$: Dynamic Discriminative Operations for Efficient Long-Context Inference of Large Language Models
 
-The code for ICLR 2025 paper: [$D_{2}O$: Dynamic Discriminative Operations for Efficient Long-Context Inference of Large Language Models](https://openreview.net/forum?id=HzBfoUdjHt).
+The code for ICLR 2025 paper: [D2O: Dynamic Discriminative Operations for Efficient Long-Context Inference of Large Language Models](https://openreview.net/forum?id=HzBfoUdjHt).
 <p align="center">
   📃 <a href="https://openreview.net/forum?id=HzBfoUdjHt" target="_blank">[Paper]</a> • 💻 <a href="https://github.com/AIoT-MLSys-Lab/d2o" target="_blank">[Github]</a> • 🤗 <a href="https://huggingface.co/papers/2406.13035" target="_blank">[Huggingface]</a> 
 </p>
