@@ -62,12 +62,9 @@ Then, follow the installation instructions provided in the repository and execut
 or 
 
 ```bibtex
-@inproceedings{
-wan2025textdtexto,
-title={\${\textbackslash}text\{D\}\_\{2\}{\textbackslash}text\{O\}\$: Dynamic Discriminative Operations for Efficient Long-Context Inference of Large Language Models},
-author={Zhongwei Wan and Xinjian Wu and Yu Zhang and Yi Xin and Chaofan Tao and Zhihong Zhu and Xin Wang and Siqi Luo and Jing Xiong and Longyue Wang and Mi Zhang},
-booktitle={The Thirteenth International Conference on Learning Representations},
-year={2025},
-url={https://openreview.net/forum?id=HzBfoUdjHt}
+@inproceedings{wan2025text,
+  title={$$\backslash$text $\{$D$\}$ \_ $\{$2$\}$$\backslash$text $\{$O$\}$ $: Dynamic Discriminative Operations for Efficient Long-Context Inference of Large Language Models},
+  author={Wan, Zhongwei and Wu, Xinjian and Zhang, Yu and Xin, Yi and Tao, Chaofan and Zhu, Zhihong and Wang, Xin and Luo, Siqi and Xiong, Jing and Wang, Longyue and others},
+  booktitle={The Thirteenth International Conference on Learning Representations}
 }
 ```
